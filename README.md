@@ -8,7 +8,7 @@ This repository documents my progress from learning React fundamentals to buildi
 
 | Project             | Description                                                                              | Demo                                                                            |
 | ------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 🍽️ **Eat-n-Split** | A bill-splitting application for managing shared expenses between friends.               | [Live Demo](https://fatemeh-abed.github.io/react-learning-journey/eat-n-split/) |
+| 🍽️ **Eat-n-Split** | A bill-splitting application for managing shared expenses between friends.               | https://fatemeh-abed.github.io/react-learning-journey/eat-n-split/ |
 | 🍕 **Pizza Menu**   | An interactive pizza menu application built with React components and dynamic rendering. | [Live Demo](https://fatemeh-abed.github.io/react-learning-journey/pizza-menu/)  |
 | 👣 **Steps**        | A small interactive application for creating and managing steps.                         | [Live Demo](https://fatemeh-abed.github.io/react-learning-journey/steps/)       |
 | 🧳 **Travel List**  | A packing-list application for organizing items needed for a trip.                       | [Live Demo](https://fatemeh-abed.github.io/react-learning-journey/travel-list/) |
